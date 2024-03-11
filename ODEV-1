@@ -1,0 +1,23 @@
+ VeriTabanı Sistemleri  
+
+Giriş: Veritabanı sistemleri, bilgilerin toplanmasını, düzenlenmesini ve yararlı verilere dönüştürülmesini sağlayan önemli bilgi sistemleridir. Bu sistemler, geçmişte kağıt dosyalarında saklanan bilgilerin günümüzde bilgisayarlar aracılığıyla depolanmasını sağlar. Veritabanı sistemleri, verilere hızlı ve kolay erişim sağlama ihtiyacıyla ortaya çıkmıştır. İlk genel amaçlı veritabanı yönetim sistemi olan Bütünleştirilmiş Veri Depolama'nın geliştirilmesiyle bu alandaki önemli bir adım atılmıştır. 
+
+Veritabanına İlişkin Genel Kavramlar: Veritabanı, düzenlenmiş ve bir amaca uygun bir şekilde bilgilerin toplandığı bir yapıdır. Veri, işlenmemiş haldeki bilgiyi ifade ederken, bilgi ise işlenmiş ve dönüştürülmüş veriyi ifade eder. Veri özelliklerinin belirlenmesi ve oluşturulması, verilerin tanımlanması ve depolanması sürecini ifade eder. Veritabanı yönetim sistemi, verilere erişimi kolaylaştırır, veri tekrarını önler ve güvenlik sağlar. 
+
+Veritabanı Yönetim Sistemlerinin Avantajları: Veritabanı sistemlerinin birden fazla dosya kullanımını engelleyerek bellek kullanımını optimize ettiği, dosya silinmesi durumunda veri bütünlüğünü koruduğu ve aynı anda birçok kullanıcının veriye erişimini sağlayarak olumsuz durumları önlediği belirtilmektedir. Ayrıca, veritabanı sistemlerinin kullanımının kolay olması ve veri güvenliğine önem verilmesi de avantajları arasındadır. 
+
+Veritabanı Kullanıcıları: Veritabanı kullanıcıları, en yüksek yetkiye sahip olan veritabanı sorumlularından, veritabanı yöneticilerine ve tasarımcılarına kadar çeşitli seviyelerde yer alır. Her seviyedeki kullanıcının farklı görevleri ve sorumlulukları vardır. 
+
+ 
+
+Veri Modelleri: Veri modelleri, verilerin daha iyi anlaşılabilmesi için gerekli araçları sağlar. Yüksek düzeyli kavramsal modellerden, düşük düzeyli fiziksel modellere kadar çeşitli modeller bulunmaktadır. Veri modellemesi, veri şemalarının tanımlanmasıyla gerçekleşir. 
+
+Veri Bağımsızlığı: Mantıksal ve fiziksel veri bağımsızlığı olmak üzere ikiye ayrılır. Mantıksal veri bağımsızlığı, kavramsal şemada yapılan değişikliklerin içsel şemayı etkilememesini ifade eder. 
+
+Veritabanı Yönetim Sistemlerinin Bileşen Modülleri: Disk erişiminden, kataloglama işlemlerine kadar birçok bileşen modülü bulunur. Bu modüller, veritabanı sistemlerinin verimli çalışmasını sağlar. 
+
+Veritabanı Türleri: Hiyerarşik, ağ, ilişkisel ve nesneye yönelik veritabanı olmak üzere çeşitli veritabanı türleri bulunmaktadır. Günümüzde en yaygın olarak kullanılan model ise ilişkisel veritabanıdır. 
+
+Veritabanı Yönetim Sistemi Yazılımları: MS SQL Server, Oracle, MySQL, Sybase, MS Access, PostgreSQL, IBM DB2, Informix, Advantage şeklindedir. MS SQL Server ilişkisel veri modelini kullanır. Oracle büyük
+miktardaki veriyi depolamak ve saklamak için kullanılır. MySQL ticari lisans seçeneği vardır. Sybase ülkemizde bankacılık sektörü ve kamusal alanlarda kullanılır. PostgreSQL  güvenli iyi performans veren bir veritabanı sistemidir. 
+MS Access küçük ölçekli uygulamalarda masaüstü veritabanı sistemi olarak kullanılır. DB2 küçük ölçekli işletmeler açısından maliyetlidir. 
